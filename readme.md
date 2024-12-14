@@ -16,6 +16,8 @@ A series of mods that aims to recreate the beta of Simpsons: Hit and Run
 ### 🚧 = in progress
 ### ❌ = hasn't started
 
+<hr>
+
 ✅ = PS2 Proto (July 10, 2003)
 <p></p>
 🚧 = Beta (June, 2003)
